@@ -23,4 +23,4 @@ requirements for sale and the required surrender amount. Process B is waiting fo
 of the need to issue change and, if the amount of change is known, determines the amount and 
 denominations of the required coins or the impossibility of issuance.
 
-Засоби синхронізації: Для організації доступу до подільних ресурсів використати семафори.
+Synchronization tools: To organize access to shared resources, use semaphores.
