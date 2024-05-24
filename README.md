@@ -1,6 +1,7 @@
 # lab2_OS
 (23.05.2022)
 Develop a program that simulates the operation of a given object, using means for process access to shared resources synchronization. The device being modeled and the means of synchronizing processes are determined by the task variant. 2. Provide visualization of the model's operation with a visual demonstration results. 3. Analyze and explain the obtained results. For results work to provide conclusions about the used synchronization tools.
+
 Modeling object: Air ticket vending machine.
 The machine accepts money (there is only one specified denomination - 1 hryvnia) 
 and issues change in coins worth up to UAH 1. (1, 2, 5, 10, 25, 50 copies). Surrender amount 
